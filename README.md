@@ -1,5 +1,7 @@
 Memory Game
-Memory Card game written in x86 assembly language.
+
+
+Memory Game written in x86 assembly language.
 
 Description
 Welcome to Memory Card Game!
@@ -10,3 +12,5 @@ and they remain face up. Don't waste a turn!
 
 Installation
 TODO: TASM 
+
+Thanks For Playing , Hope You Enjoy It ! :)
