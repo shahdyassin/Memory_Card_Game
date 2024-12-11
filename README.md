@@ -1,9 +1,9 @@
-Memory Game
+->Memory Game
 
 
 Memory Game written in x86 assembly language.
 
-Description
+->Description :-
 
 Welcome to Memory Card Game!
 
@@ -13,8 +13,8 @@ If the faces of the stars match, you win the pair
 
 and they remain face up. Don't waste a turn!
 
-Installation
+->Installation :-
 
 TODO: TASM 
 
-Thanks For Playing , Hope You Enjoy It ! :)
+* Thanks For Playing , Hope You Enjoy It ! :)
