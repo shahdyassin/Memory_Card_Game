@@ -1,4 +1,4 @@
-* Memory Matching Game
+* <h2>Memory Matching Game</h2>
 
 This project is a simple Memory Matching Game implemented in x86 Assembly language using the TASM assembler. 
 
