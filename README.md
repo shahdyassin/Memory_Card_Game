@@ -1,20 +1,23 @@
-->Memory Game
+*Memory Matching Game
 
+This project is a simple Memory Matching Game implemented in x86 Assembly language using the TASM assembler. 
 
-Memory Game written in x86 assembly language.
+The game challenges the player to match pairs of cards by remembering their positions. 
 
-->Description :-
+The project highlights the fundamental use of Assembly language for implementing logical operations and interacting with the user via a text-based interface.
 
-Welcome to Memory Card Game!
+*How the Game Works :-
 
-This is a memory game in which you guess two cards.
+- The board consists of 8 cards, represented as asterisks (*) initially.
+  
+- The player is prompted to reveal two positions (1-8) on each turn.
+  
+- If the cards at the selected positions match, they remain revealed.
+  
+- The game continues until all pairs of cards are matched.
+  
+- Once all pairs are found, the program displays a congratulatory message.
 
-If the faces of the stars match, you win the pair
+This project demonstrates the fundamentals of Assembly programming and showcases how a logical problem can be tackled at the low-level with careful memory and register management.
 
-and they remain face up. Don't waste a turn!
-
-->Installation :-
-
-TODO: TASM 
-
-* Thanks For Playing , Hope You Enjoy It ! :)
+Thanks For Playing , Hope You Enjoy It ! :)
