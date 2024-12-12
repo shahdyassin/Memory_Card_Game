@@ -1,4 +1,4 @@
-* <h2>Memory Matching Game</h2>
+<h2>Memory Matching Game</h2>
 
 This project is a simple Memory Matching Game implemented in x86 Assembly language using the TASM assembler. 
 
@@ -6,7 +6,7 @@ The game challenges the player to match pairs of cards by remembering their posi
 
 The project highlights the fundamental use of Assembly language for implementing logical operations and interacting with the user via a text-based interface.
 
-* <h4>How the Game Works :-</h4>
+ <h4>How the Game Works</h4>
 
 - The board consists of 8 cards, represented as asterisks (*) initially.
   
